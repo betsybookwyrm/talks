@@ -2,6 +2,8 @@
 
 CompCon AU 2016
 
+[Video of talk (thanks CompCon AU!)](https://youtu.be/4xhSf5DMyrU?list=PLeiahqHp4F82ED1_LzsuPNM6K273azDjh)
+
 Betsy Alpert
 lizbeth.alpert@gmail.com
 
